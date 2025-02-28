@@ -1,5 +1,5 @@
-1.Habari,wambugu-blay.
-2.Intrested in developing,writing,and maintaining codes in diffrent software applications.
-3.Currently learning the various programming languagesand roughly the tools to design ,build and improve systems based on specified requirements.  
-4.Looking forward to collaborate together with diffrent developers to build,solve and enhance technical problems.
-5.Blaisewambugu@gmail.com
+Habari,wambugu-blaise.
+Intrested in developing,writing,and maintaining codes in diffrent software applications.
+Currently learning the various programming languagesand roughly the tools to design ,build and improve systems based on specified requirements.  
+Looking forward to collaborate together with diffrent developers to build,solve and enhance technical problems.
+Blaisewambugu@gmail.com
